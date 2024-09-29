@@ -1,0 +1,4 @@
+<resources>
+    <string name="title_activity_login">Login</string>
+    <string name="app_name">Attendence_application</string>
+</resources>
